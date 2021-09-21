@@ -1,7 +1,13 @@
 # Financepeer-assignment
 Online Test
+the no of user and their passwords: [{0: 'nikhil', 1: 'teja', 2: 'ravi', 3: 'vamsi', 4: 'giri', 5: 'krishna', 6: 'nikhilp'}, {0: 'n1', 1: 't1', 2: 'r1', 3: 'v1', 4: 'g1', 5: 'k1', 6: 'np'}]
+---------------------------------the user name and password:----------------
+nikhil:n1
+teja:t1
+ravi:r1
+krishna:k1
+-----------------------------------------------------------------------------
 
-#
 
 1.First open financepeer py file
 2.run the file
